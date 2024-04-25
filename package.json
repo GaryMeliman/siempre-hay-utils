@@ -1,0 +1,9 @@
+{
+  "name": "siempre-hay-utils",
+  "version": "0.0.1",
+  "description": "Utilidades para aplicaciones siempre hay",
+  "main": "index.js",
+  "repository": "git@github.com:GaryMeliman/siempre-hay-utils.git",
+  "author": "Gary Meliman <gary.meliman@outlook.com>",
+  "license": "MIT"
+}
